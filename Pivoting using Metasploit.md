@@ -146,3 +146,4 @@ a img {
 </body>
 </html>                                                                                                                                                 
 ```
+## SMB Named Pipe Pivoting
